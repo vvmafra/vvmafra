@@ -1,6 +1,6 @@
 ### I'm Victor 
 
-About me
+### About me:
 - 💻 Full-Stack Developer
 - 👨‍🎓 Driven Student - Graduating in September/23
 - 🇨🇦 Lived 4 months in Vancouver/CA - Fluent in English
@@ -12,7 +12,7 @@ About me
       ▶️ Responsible
       ▶️ Empathetic
 
-      ###Main Skills>
+### Main Skills:
 ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
