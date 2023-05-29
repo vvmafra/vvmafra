@@ -6,6 +6,9 @@
 
   </p>
 
+<br>
+
+![Snake animation](https://github.com/vvmafra/vvmafra/blob/output/github-contribution-grid-snake-svg.svg)
 
 <!--
 **vvmafra/vvmafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
