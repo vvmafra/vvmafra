@@ -1,16 +1,15 @@
 ### I'm Victor 
 
-  <p>
 
-    💻 Full-Stack Developer
+    -💻 Full-Stack Developer
 
-    👨‍🎓 Driven Student - Graduating in September/23
+    -👨‍🎓 Driven Student - Graduating in September/23
   
-    🇨🇦 Lived 4 months in Vancouver/CA - Fluent in English
+    -🇨🇦 Lived 4 months in Vancouver/CA - Fluent in English
   
-    🇧🇷 Residing in Blumenau - SC
+    -🇧🇷 Residing in Blumenau - SC
 
-    🧠 My main characteristics:
+    -🧠 My main characteristics:
       ▶️ Hard Worker
       ▶️ Honest
       ▶️ Gentle
