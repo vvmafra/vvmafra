@@ -11,7 +11,11 @@
     🇨🇦 Lived 4 months in Vancouver/CA - Fluent in English
 
     🧠 My main characteristics:
-       <li>d</li>
+      ▶️ Hard Worker
+      ▶️ Honest
+      ▶️ Gentle
+      ▶️ Responsible
+      ▶️ Empathetic
 
   </p>
 
