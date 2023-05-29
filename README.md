@@ -1,16 +1,16 @@
 ### I'm Victor 
 
 ### About me:
-- 💻 Full-Stack Developer
-- 👨‍🎓 Driven Student - Graduating in September/23
-- 🇨🇦 Lived 4 months in Vancouver/CA - Fluent in English
-- 🇧🇷 Residing in Blumenau - SC
+- 💻 Full-Stack Developer;
+- 👨‍🎓 Driven Student - Graduating in September/23;
+- 🇨🇦 Lived 4 months in Vancouver/CA - Fluent in English;
+- 🇧🇷 Residing in Blumenau - SC;
 ### 🧠 My main characteristics:
-      -- Hard Worker
-      -- Honest
-      -- Gentle
-      -- Responsible
-      -- Empathetic
+      - Hard Worker;
+      - Honest;
+      - Gentle;
+      - Responsible;
+      - Empathetic;
       
 ![Snake animation](https://github.com/vvmafra/vvmafra/blob/output/github-contribution-grid-snake-svg.svg)
 
