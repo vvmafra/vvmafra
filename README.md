@@ -4,6 +4,8 @@
 
     Full-Stack developer
 
+    :man_student: Driven Student
+
   </p>
 
 <br>
