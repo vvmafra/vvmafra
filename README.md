@@ -11,6 +11,8 @@
       ▶️ Gentle
       ▶️ Responsible
       ▶️ Empathetic
+      
+![Snake animation](https://github.com/vvmafra/vvmafra/blob/output/github-contribution-grid-snake-svg.svg)
 
 ### Main Skills:
 ![JAVASCRIPT](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117)&nbsp;
@@ -22,7 +24,7 @@
   
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
-![Snake animation](https://github.com/vvmafra/vvmafra/blob/output/github-contribution-grid-snake-svg.svg)
+
 
 <!--
 **vvmafra/vvmafra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
