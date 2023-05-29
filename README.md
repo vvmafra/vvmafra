@@ -11,7 +11,7 @@
     🇨🇦 Lived 4 months in Vancouver/CA - Fluent in English
 
     🧠 My main characteristics:
-       <li></li>
+       <li>d</li>
 
   </p>
 
