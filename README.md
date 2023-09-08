@@ -4,8 +4,8 @@
 - 💻 Full-Stack WebDeveloper;
 - 🌱 Currently I'm improving my knowledge in Nest.js;
 - 👨‍🎓 Driven Student - Graduating in October/23;
-- 🇨🇦 Lived 4 months in Vancouver/CA - Fluent in English;
-- 🇧🇷 Residing in Blumenau - SC;
+- <img src="https://hatscripts.github.io/circle-flags/flags/ca.svg" width="48"> Lived 4 months in Vancouver/CA - Fluent in English;
+- <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48"> Residing in Blumenau - SC;
 ### 🧠 My main characteristics:
 - Hard Worker;
 - Honest;
