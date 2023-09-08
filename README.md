@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Victor Mafra
+### 👋 Hi there! I'm Victor Mafra
 
 ### About me:
 - 💻 Full-Stack WebDeveloper;
